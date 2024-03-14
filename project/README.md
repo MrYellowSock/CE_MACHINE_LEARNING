@@ -1,0 +1,4 @@
+- XAG : Silver
+- XAU : Gold
+- XPD : Palladium
+- XPT : Platinum
